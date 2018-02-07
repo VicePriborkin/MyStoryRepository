@@ -1,1 +1,3 @@
 Hello World! This is the first file I created using the Terminal :)
+
+Ok, now the file was committed. Checking for changes...
